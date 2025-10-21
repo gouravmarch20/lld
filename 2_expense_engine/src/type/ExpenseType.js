@@ -1,0 +1,6 @@
+export const ExpenseType = {
+  RESTAURANT: "RESTAURANT",
+  AIRFARE: "AIRFARE",
+  ENTERTAINMENT: "ENTERTAINMENT",
+  HOTEL: "HOTEL",
+};
